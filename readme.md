@@ -80,7 +80,7 @@
 - [Botsociety](https://botsociety.io/)
 - [Botmock](https://botmock.com/)
 
-# Books
+# Books📚📚📚
 
 - [Chatbots for eCommerce: Learn how to build a virtual shopping assistant (By Rania Zyane, Amit Kothari, Joshua Hoover)](https://www.amazon.com/gp/product/B0714LD3H2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=botsfloor0d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0714LD3H2&linkId=1e52a64c2035320e04cd6c1e246e5b84)
 - [Chatbots: An Introduction And Easy Guide To Making Your Own (By Oisin Muldowney)](https://www.amazon.com/gp/product/1999834801/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=botsfloor0d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1999834801&linkId=f484afb09a1cea18a36964fdacc501ae)
