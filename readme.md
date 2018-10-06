@@ -1,8 +1,8 @@
 ![1_ouqmsrsxswfw0kx1e9y9ba](https://user-images.githubusercontent.com/4303310/38668919-184e3112-3e56-11e8-9f89-3419a76c316b.png)
 
-# An Human readable curated list of Bots' learn how to use Bots in real world. 
+# :boy:An Human readable curated list of :robot:'Bots' learn how to use Bots in real world. 
 
-## Contents
+## :clipboard:Contents:clipboard:
 
 - [Building Bots](#building-bots)
 - [Tutorials](#tutorials)
@@ -16,9 +16,9 @@
 - [Slides](#slides)
 - [Contribution](#contribution)
 
-# Building Bots for Human👬
+# :closed_book::closed_book:Building Bots for Human👬
 
-### Bots Platforms
+### :bookmark::bookmark:Bots Platforms
 
 - [Chatfuel](https://chatfuel.com)
 - [Motion AI](http://www.motion.ai/)
@@ -27,7 +27,7 @@
 - [DakiBot](https://www.dakibot.com/)
 
 
-### Bots Frameworks
+### :bookmark:Bots Frameworks
 
 - [Lita](https://www.lita.io/)
 - [Hubot](https://hubot.github.com/)
@@ -35,14 +35,14 @@
 - [Botkit Howdy AI](https://howdy.ai/)
 - [Microsoft Bot Framework](https://dev.botframework.com/)
 
-### Bots Repositories
+### :bookmark:Bots Repositories
 
 - [Hubot](https://github.com/hubotio)
 - [Botkit](https://github.com/howdyai/botkit)
 - [Lita](https://github.com/litaio/lita)
 - [Err Bot](https://github.com/errbotio/errbot)
 
-# Tutorials
+# :heart_eyes:Tutorials:heart_eyes:
 - [Create Slack Bot using Botkit in 10 minutes – Chatbot's Life](https://chatbotslife.com/create-slack-bot-using-botkit-in-10-minutes-332956d6177d)
 - [Make a Slackbot in 5 minutes with Botkit](https://chatbotslife.com/make-a-slackbot-in-5-minutes-with-botkit-38c73efec1a0)
 - [Create a chatbot with Slack and Botkit](http://altitudelabs.com/blog/create-a-slackbot-using-botkit/)
@@ -52,7 +52,7 @@
 - [Chatbot with Angular 5 & DialogFlow](http://www.blog.labouardy.com/chatbot-with-angular-5-dialogflow/)
 - [Build a Facebook Messenger bot with Go and Messenger API](http://www.blog.labouardy.com/create-facebook-messanger-bot-with-go-and-messenger-api/)
 
-# Famous Bots
+# :scream_cat:Famous Bots:scream_cat:
 
 - [Poncho](https://www.messenger.com/t/hiponcho)
 - [Wafasalaf](https://www.messenger.com/t/wafasalaf)
@@ -60,7 +60,7 @@
 - [TechCrunch](https://www.messenger.com/t/8062627951)
 - [Trading Bot](https://www.messenger.com/t/TheTradingBot)
 
-# Channels
+# :tv:Channels:tv:
 
 - [Messenger Facebook](https://www.messenger.com)
 - [Slack](https://www.slack.com)
@@ -69,13 +69,13 @@
 - [Skype](https://www.skype.com)
 - [Web]()
 
-# Analytics
+# :chart_with_upwards_trend:Analytics
 
 - [Botanalyics](https://botanalytics.co/)
 - [Dashbot](https://www.dashbot.io/)
 - [Facebook Analytics](https://analytics.facebook.com/)
 
-# Design
+# :pencil2:Design
 
 - [Botsociety](https://botsociety.io/)
 - [Botmock](https://botmock.com/)
@@ -86,20 +86,20 @@
 - [Chatbots: An Introduction And Easy Guide To Making Your Own (By Oisin Muldowney)](https://www.amazon.com/gp/product/1999834801/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=botsfloor0d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1999834801&linkId=f484afb09a1cea18a36964fdacc501ae)
 - [An Introduction to the Microsoft Bot Framework: Create Facebook and Skype Chatbots using Microsoft Visual Studio and C# (By Michael Washington)](https://www.amazon.com/gp/product/1539963020/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=botsfloor0d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1539963020&linkId=194360dfa510cf062818b41379e7d475)
 
-# Articles
+# :bookmark_tabs:Articles
 
 - [Create, Develop and Deploy your FB Messenger chatbot](https://chatbotsmagazine.com/create-develop-and-deploy-your-fb-messenger-chatbot-974f6f65ad82)
 - [Bot-Ops: Manage Your Bots Using a Superbot](https://chatbotsmagazine.com/botops-manage-your-bots-using-a-superbot-82cf24f2a3c1)
 - [AI Platforms — You’ll need them to make your chatbot smarter [REX]](https://chatbotsmagazine.com/ai-platforms-youll-need-them-to-make-your-chatbots-smarter-rex-a884e1fea1ea)
-# Papers
+# :paperclip::paperclip:Papers
 
 - [Chatbots in Banking](http://content.comtradedigital.com/whitepaper-chatbots-banking)
 
-# Slides
+# :eyes:Slides
 
 - [Chabots Survey 2017](http://linkshrink.net/71o3Yg)
 
-## 👬 Contribution
+## 👬 Contribution:octocat:
 
 - Open pull request with improvements
 - Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/anmol_nagpal.svg?style=social&label=Follow%20anmolnagpal)](https://twitter.com/anmol_nagpal)
